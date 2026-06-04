@@ -13,7 +13,7 @@
 <!--Intro start-->
 
 <p align="left">
-### MLOps & Infrastructure Engineer 🚀
+### DevOps & Infrastructure Engineer 🚀
 
 ---
 
