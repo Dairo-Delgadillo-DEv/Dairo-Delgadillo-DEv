@@ -1,6 +1,7 @@
 <h1 align="center">Hi,👋  I'm Dairo Delgadillo ✨ </h1> 
 
-<img width="1211" height="569" alt="image" src="https://github.com/user-attachments/assets/1e827ef7-a865-4815-86d6-44072054258a" />
+<img width="880" height="1187" alt="Imagen Perfil Profesional" src="https://github.com/user-attachments/assets/e8da7e37-52ae-4a00-a0ef-de2f96265c38" />
+ />
 
 
 <p align="left">
