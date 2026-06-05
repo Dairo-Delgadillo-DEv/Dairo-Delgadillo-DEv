@@ -14,7 +14,7 @@
 <!--Intro start-->
 
 <p align="left">
-### DevOps & Infrastructure Engineer 🚀
+### DevOps Engineer & Infrastructure Engineer 🚀
 
 ---
 
